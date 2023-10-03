@@ -21,3 +21,6 @@ console.log(b);
 
 var b =14;
 console.log(b);
+
+
+console.log(a+b);
